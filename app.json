@@ -10,7 +10,7 @@
   ],
   "success_url": "http://t.me/KeplerXbot",
   "website": "http://t.me/KeplerXbot",
-  "repository": "https://github.com/No-OnE-Kn0wS-Me/Renamebot",
+  "repository": "https://github.com/sonicxbot/renamer-bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
