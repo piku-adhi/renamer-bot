@@ -1,7 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# (c) Shrimadhav U K
-
 # the logging things
 import logging
 logging.basicConfig(level=logging.DEBUG,
@@ -37,7 +33,7 @@ from database.database import *
 @pyrogram.Client.on_message(pyrogram.Filters.command(["rename"]))
 async def rename_doc(bot, update):
     if update.from_user.id in Config.BANNED_USERS:
-        await update.reply_text("You are B A N N E D")
+        await update.reply_text("You are Banned")
         return
     TRChatBase(update.from_user.id, update.text, "rename")
     if (" " in update.text) and (update.reply_to_message is not None):
