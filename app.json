@@ -1,5 +1,5 @@
 {
-  "name": "TG Rename Bot",
+  "name": "Renamer X",
   "description": "Telegram's best Open Source Rename Bot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -8,8 +8,8 @@
     "source",
     "Rename"
   ],
-  "success_url": "https://t.me/Mai_bOTs",
-  "website": "https://github.com/No-OnE-Kn0wS-Me",
+  "success_url": "http://t.me/KeplerXbot",
+  "website": "http://t.me/KeplerXbot",
   "repository": "https://github.com/No-OnE-Kn0wS-Me/Renamebot",
   "env": {
     "WEBHOOK": {
@@ -26,15 +26,15 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "2376873"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "b99168829590359c125d8c83b2ea449d"
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": ""
+      "value": "1511069472"
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
