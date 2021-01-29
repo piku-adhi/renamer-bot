@@ -1,4 +1,6 @@
-# Renamer X Bot
+## Rename Bot 
+
+An Open Source # Renamer X Bot
 
 ## Requirements
     1.API ID: 2376873

@@ -1,5 +1,5 @@
 {
-  "name": "Renamer X",
+  "name": "TG Rename Bot",
   "description": "Telegram's best Open Source Rename Bot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -8,9 +8,9 @@
     "source",
     "Rename"
   ],
-  "success_url": "http://t.me/KeplerXbot",
-  "website": "http://t.me/KeplerXbot",
-  "repository": "https://github.com/sonicxbot/renamer-bot",
+  "success_url": "https://github.com/spechide/AnyDLbot",
+  "website": "https://githib.com/prgofficial",
+  "repository": "https://github.com/prgofficial/RenameBot-PermTB",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -18,10 +18,6 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
-    },
-    "CHAT_BASE_TOKEN": {
-      "description": "Your chat base token, as a string.",
       "value": ""
     },
     "APP_ID": {
@@ -37,13 +33,8 @@
       "value": "1511069472"
     },
     "BANNED_USERS": {
-      "description": "Banned Unwanted members..",
+      "description": "Banned members..",
       "value": "",
-      "required": false
-    },
-    "CHUNK_SIZE": {
-      "description": "chunk size that should be used with requests",
-      "value": "128",
       "required": false
     }
   },
@@ -56,8 +47,6 @@
     }
   ],
   "buildpacks": [{
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-  }, {
     "url": "heroku/python"
   }],
   "formation": {
