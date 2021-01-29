@@ -1,19 +1,11 @@
-## Rename Bot + File To Video Converter Bot 
+# Renamer X Bot
 
-An Open Source Telegram Rename Bot With Permanent Thumbnail Support Also Have The Future To Convert Files Into Video 
+## Requirements
+    1.API ID: 2376873
+    2.API HASH: b99168829590359c125d8c83b2ea449d
+    3.CHATBASE TOKEN: .....
+    4.BOT TOKEN: .....
 
+<b>Easy Way to Deploy</b>
 
-### Installation
-
-
-### You can tap the Deploy To Heroku button below to deploy straight to Heroku!
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/No-OnE-Kn0wS-Me/FileRenameBot)
-
-For Queries and support, check [Telegram ](https://telegram.dog/Mai_bOTs)
-
-## Credits, and Thanks to Beloved Developers ;
-
-* [SpEcHlDe](https://telegram.dog/SpEcHlDe) 
-* [Dan Tès](https://telegram.dog/haskell) 
-* [Yoily](https://telegram.dog/YoilyL)
-* [Anand](https://telegram.dog/Anandpskerala)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sonicxbot/renamer-bot)
