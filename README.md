@@ -10,4 +10,4 @@ An Open Source # Renamer X Bot
 
 <b>Easy Way to Deploy</b>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AlbertEinsteinTG/renamer-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AlbertEinsteinTG/renamer-bot/tree/master)
