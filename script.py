@@ -1,7 +1,7 @@
 class script(object):
     START_TEXT = """Hi! I'm A Simple File Renamer and File To Video Converter Bot With Permanent Thumbnail support! \n
 /help for more details
-""""""
+"""
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
     UPGRADE_TEXT = "CONTACT @rjnishsngh"
